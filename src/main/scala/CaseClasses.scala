@@ -18,6 +18,10 @@ class Number(n: Int) extends Expr {
   def numValue: Int = n
 
 
+  
+  
+  
+  
 
  val a = 30
   def leftOp: Expr = throw new Error("Number.leftOp")
