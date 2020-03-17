@@ -26,6 +26,8 @@ object ClassesObjects {
       i += 1
     }
     println("" + x.numer + "/" + x.denom)
+   
+
 
   }
 }
